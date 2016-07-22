@@ -1,2 +1,2 @@
-# furqan
+# Furqan
 Analyzing Islamic theology.
